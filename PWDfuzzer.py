@@ -38,6 +38,6 @@ if __name__ == '__main__':
             FuzzResultWord = PwdTempalWord.replace('%username%',KeyWord)
             if FuzzResultWord not in FuzzResultLlist:
                 FuzzResultLlist.append(FuzzResultWord)
-    #最后输出所有Fuzz出的密码至password.txta
+    #最后输出所有Fuzz出的密码至password.txt
     OutPutFile(FuzzResultLlist)
     print("Enjoy your password.txt!")
