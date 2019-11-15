@@ -5,5 +5,3 @@
 ![PWDfuzzer](https://raw.githubusercontent.com/r00tSe7en/PWDfuzzer/master/PWDfuzzer.png)
 
 密码规则：[baishunXD](https://github.com/baishunXD)
-
-感谢：(https://github.com/rootphantomer/FuzzerPwd)
